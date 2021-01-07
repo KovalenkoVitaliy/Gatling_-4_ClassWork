@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Next &rarr;",
+                "infFile": "t1.inf",
+                "time": 1585255260870
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Next &rarr;",
+                "infFile": "t2.inf",
+                "time": 1585255260986
+            }
+        ],
+        "transactions": []
+    }
+]
